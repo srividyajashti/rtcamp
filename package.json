@@ -1,0 +1,18 @@
+{
+  "name": "rt_slideshow_plugin",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "lightslider": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kajal Sharma <sharmakajal2101@gmail.com>",
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kajalsharma2101/rtcamp-slideshow-plugin-assignment"
+  }
+}
